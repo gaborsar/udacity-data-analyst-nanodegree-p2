@@ -1,0 +1,348 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage[backend=biber,style=numeric]{biblatex}
+\usepackage{multicol}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage[labelfont=bf]{caption}
+
+\addbibresource{bibliography.bib}
+\setlength{\columnsep}{1cm}
+\lstdefinestyle{mystyle}{breaklines=true,frame=top,basicstyle=\ttfamily}
+\lstset{style=mystyle}
+\captionsetup{justification=raggedright,singlelinecheck=false}
+
+\title{OpenStreetMap Project \\ Data Wrangling with MongoDB}
+\author{Gabor Sar}
+
+\begin{document}
+
+\maketitle
+
+\begin{multicols}{2}
+
+% =============================================================================
+% Source of the Data
+% =============================================================================
+
+\noindent
+\begin{flushleft}
+Map area: Budapest, Hungary \break
+https://mapzen.com/metro-extracts/
+\end{flushleft}
+
+% =============================================================================
+% Section : Problems Encountered in the Map
+% =============================================================================
+
+\section{Problems Encountered in the Map}
+
+After I downloaded the data and I had an initial read on it I immediately saw a few errors in the address fields and the keys. In order to get a better picture about the quality of the data and those issues, I generated files containing lists of unique values of the problematic fields and the keys (Listing \ref{listing:1}, \textit{unique\_values.py}). Based on those unique values I have defined the validation rules I have used (\textit{validation.py}). Using those validation rules I ran a basic audit of the data (Listing \ref{listing:1}, \textit{audit.py}). After the initial audit, I started to define the cleaning logic (\textit{clean.py}), and I kept improving it until the audit stopped reporting invalid values.
+
+To audit postcodes, city names and street names I used a publicly available reference data \cite{HungarianPostcodes:2015}, which I downloaded from the website of the Hungarian Post Office. To make it easier to use, I transformed the data into a JSON file (\textit{standard\_data.json}).
+
+In the process of auditing the data, I found the following problems:
+
+\begin{itemize}[noitemsep]
+\item Invalid keys
+\item Inconsistent keys
+\item Typographical errors in keys
+\item Inconsistent city names
+\item Typographical errors in city names
+\item Inconsistent house number formats
+\item Topographical numbers instead of house numbers
+\item Invalid postcodes
+\item Inconsistent state formats
+\item Invalid city names
+\item Topographical and house numbers in street names
+\item Typographical errors in street names
+\end{itemize}
+
+\begin{lstlisting}[caption=Generate lists of unique values of the problematic fields and the keys and audit the data.,label={listing:1}]
+$ python unique_values.py
+$ python audit.py
+\end{lstlisting}
+
+% =============================================================================
+% Subsection : Keys
+% =============================================================================
+
+\subsection{Keys}
+
+Three keys contained dots instead of colons to separate different levels of groups (e.g., \textit{"surface.material"} instead of \textit{"surface:material"}).
+
+In a few cases, more than one key was used to represent the same type of information (e.g., \textit{"Street"} instead of \textit{"addr:street"}).
+
+I also found typographical errors (e.g., \textit{"acess"} instead of \textit{"access"}, \textit{"disusedhighway"} instead of \textit{"disused:highway"}).
+
+I replaced all the dots with colons and the invalid keys with their valid versions.
+
+% =============================================================================
+% Subsection : City Names
+% =============================================================================
+
+\subsection{City Names}
+
+In some cases where the city contained the name of a part of the city, it did not contain the name of the city itself (e.g., \textit{"Agárd"} instead of \textit{"Gárdony-Agárd"}).
+
+I found a few typographical errors as well (e.g., \textit{"Agáed"} instead of \textit{"Agárd"}).
+
+I replaced all the invalid city names with their valid versions.
+
+% =============================================================================
+% Subsection : House Numbers
+% =============================================================================
+
+\subsection{House Numbers}
+
+There were many different house number formats used in the data. I selected the most commonly used format as the standard format and  using regular expressions I transformed most of the house numbers to their valid format.
+
+The valid house number consist of one or more units (numbers and alphabets separated by slashes - house/entrance/level/flat) connected with dashes (range) or separated by commas (list).
+
+After the standardization, only a short list of invalid values remained (4 unique values). One of them was valid (\textit{"19 km pihenő"}) and three of them were topographical numbers (\textit{"019/8 hrsz"}, \textit{"081/15 hrsz"}, \textit{"15/7 hrsz"}). I updated the key of the topographical numbers to the appropriate \textit{addr:hrsz}.
+
+% =============================================================================
+% Subsection : Postcodes
+% =============================================================================
+
+\subsection{Postcodes}
+
+The data contained both Hungarian and Slovakian addresses and therefore, postcodes.
+
+A valid Slovakian postcode consists of 5 digits with a space after the third digit \cite{SlovakianPostcodes:2015}. Two of the Slovakian postcodes did not contain the space (e.g., \textit{"94301"} instead of \textit{"943 01"}). 
+
+Based on the reference data \cite{HungarianPostcodes:2015}, some of the Hungarian postcodes were invalid. After I have checked the actual addresses, I understood most of them were postcodes of post offices, museums, supermarkets and other private businesses. Those tend to have their special postcodes. Still, four of them were invalid due to possible typographical errors (e.g., \textit{"1231"} instead of \textit{"1213"}).
+
+I added the missing space to the invalid Slovakian postcodes and replaced all the invalid Hungarian postcodes with their valid versions.
+
+% =============================================================================
+% Subsection : States
+% =============================================================================
+
+\subsection{States}
+
+All the addresses in the data had the same state value but in some cases it was uppercase instead of title case (\textit{"CENTRAL HUNGARY"} instead of \textit{"Central Hungary"}). I converted all the state values to title case.
+
+% =============================================================================
+% Subsection : Street Names
+% =============================================================================
+
+\subsection{Street Names}
+
+Auditing street names and street types revealed three types of issues.
+
+I found invalid street names that I was not able to fix due to the lack of information about the particular address (Listing \ref{listing:2}).
+
+In other cases street names contained house or topographical numbers (e.g., \textit{"Szent István körút 13"}, \textit{"Liszenkó telep 0318 hrsz."}).
+
+I also found typographical errors (e.g., \textit{"uca"} instead of \textit{"utca"}).
+
+I replaced all the invalid street names with their valid versions, and I removed and reinserted the house and typographical numbers with their appropriate keys (\textit{addr:housenumber}, \textit{addr:hrsz}).
+
+\begin{lstlisting}[caption=A non fixable street name issue.,label={listing:2}]
+<node id="1372162022" version="2">
+  <tag k="addr:street" v="ny"/>
+  <tag k="addr:housenumber" v="125"/>
+</node>
+\end{lstlisting}
+
+% =============================================================================
+% Subsection : Data Overview
+% =============================================================================
+
+\section{Data Overview}
+
+The following section provides a statistical overview of the dataset, as well as the used MongoDB queries.
+
+The size of \textit{budapest\_hungray.osm} is 511MB, the size of \textit{budapest\_hungray.json} is 562MB, the number of \textit{documents} is 2570746, the number of \textit{nodes} is 2203666, the number of \textit{ways} is 366985, the number of \textit{unique\ contributing\ users} is 1721 and the top three \textit{contributing users} are \textit{igor2} (392265 contributions), \textit{Separis} (152763 contributions) and \textit{nagy\_balint} (127935 contributions).
+
+Listing \ref{listing:3} shows how to generate \textit{budapest\_hungray.json} from \textit{budapest\_hungray.osm} and store it in MongoDB, Table  \ref{table:1} shows the size of the two files and Listings \ref{listing:4} - \ref{listing:8} shows the MongoDB queries and the results of them.
+
+\begin{lstlisting}[caption="Generate \textit{budapest\_hungray.json} from \textit{budapest\_hungray.osm} and import it into MongoDB.",label={listing:3}]
+$ python data.py
+$ mongoimport \
+    --db openstreetmap \
+    --collection hun \
+    --file budapest_hungary.json
+\end{lstlisting}
+
+\captionof{table}{File Sizes}
+\label{table:1}
+\begin{tabular}{lr}
+\hline
+budapest\_hungray.osm  & 511MB \\
+\hline
+budapest\_hungray.json & 562MB \\
+\hline
+\end{tabular}
+\break
+
+\begin{lstlisting}[caption=Number of documents.,label={listing:4}]
+> db.hun.count()
+2570746
+\end{lstlisting}
+
+\begin{lstlisting}[caption=Number of nodes.,label={listing:5}]
+> db.hun.count({ type: 'node' })
+2203666
+\end{lstlisting}
+
+\begin{lstlisting}[caption=Number of ways.,label={listing:6}]
+> db.hun.count({ type: 'way' })
+366985
+\end{lstlisting}
+
+\begin{lstlisting}[caption=Number of unique contributing users.,label={listing:7}]
+> db.hun.distinct('created.user').length
+1721
+\end{lstlisting}
+
+\begin{lstlisting}[caption=Top three contributing users.,label={listing:8}]
+> db.hun.aggregate([
+.   { $group: {
+.     _id: '$created.user',
+.     contributions: { $sum: 1 }
+.   } },
+.   { $sort: {
+.     contributions: -1
+.   } },
+.   { $limit: 3 },
+.   { $project: {
+.     user: '$_id',
+.     _id: 0,
+.     contributions: 1
+.   } }
+. ])
+{
+  "user": "igor2",
+  "contributions": 392265
+}
+{
+  "user": "Separis",
+  "contributions": 152763
+}
+{
+  "user": "nagy_balint",
+  "contributions": 127935
+}
+\end{lstlisting}
+
+% =============================================================================
+% Subsection : Additional Ideas
+% =============================================================================
+
+\section{Additional Ideas}
+
+After I generated (Listing \ref{listing:9}) and compared (Table \ref{table:2}) the frequency of the different address keys, I noticed that the high-level keys (\textit{postcode}, \textit{city}, \textit{country}) are missing in so many cases (only 48\% of the addresses have a \textit{country} value) as it is one of if not the most important improvement we can make.
+
+One other area that we could improve is the lack of districts in addresses. Budapest has 23 districts and as they have a very important role in terms of governance of the city, adding them to our database would be a very good improvement.
+
+% =============================================================================
+% Subsection : Address Key Frequencies
+% =============================================================================
+
+\subsection{Address Key Frequencies}
+
+A possible way to solve this issue is improving the incomplete addresses based on their neighbors. We can search other points in the data with a matching low-level address key (e.g., \textit{street}) in a maximum distance (e.g., 100m), and we can copy the missing high-level keys from those points. We can repeat this process until we cannot find more points that we can improve.
+
+% =============================================================================
+% Subsection : Districts in Budapest
+% =============================================================================
+
+\subsection{Districts in Budapest}
+
+We can add districts to our database using the standard data we have \cite{HungarianPostcodes:2015}. We can assign district values to addresses based on \textit{city}, \textit{street} and \textit{postcode}. We can also use the data to provide us the list of possible districts, where it is not possible to choose one automatically.
+
+% =============================================================================
+% Subsection : Tables an Listings
+% =============================================================================
+
+\begin{lstlisting}[caption=Get the frequency of the address keys.,label={listing:9}]
+> db.hun.mapReduce(
+.   function map() {
+.     var keys = Object.keys(this.address);
+.     keys.forEach(function (key) {
+.       emit(key, 1)
+.     });
+.     emit('address', 1);
+.   },
+.   function reduce(key, values) {
+.     return Array.sum(values);
+.   },
+.   {
+.     query: {
+.       address: { $exists: true }
+.     },
+.     out: { inline: 1 }
+.   }
+. );
+\end{lstlisting}
+
+\captionof{table}{Frequency of the address keys.}
+\label{table:2}
+\begin{tabular}{lrr}
+\hline
+address                       & 55262 & 100\%          \\
+\hline
+address.street                & 45150 & 82\%           \\
+\hline
+address.housenumber           & 40686 & 74\%           \\
+\hline
+address.postcode              & 33748 & 61\%           \\
+\hline
+address.city                  & 32593 & 60\%           \\
+\hline
+address.country               & 26286 & 48\%           \\
+\hline
+address.interpolation         & 3162  & 6\%            \\
+\hline
+address.suburb                & 1864  & 3\%            \\
+\hline
+address.housename             & 371   & 1\%            \\
+\hline
+address.inclusion             & 139   & \textless 1\%  \\
+\hline
+address.staircase             & 48    & \textless 1\%  \\
+\hline
+address.conscriptionnumber    & 37    & \textless 1\%  \\
+\hline
+address.place                 & 20    & \textless 1\%  \\
+\hline
+address.hrsz                  & 12    & \textless 1\%  \\
+\hline
+address.state                 & 11    & \textless 1\%  \\
+\hline
+address.unit                  & 8     & \textless 1\%  \\
+\hline
+address.full                  & 6     & \textless 1\%  \\
+\hline
+address.door                  & 5     & \textless 1\%  \\
+\hline
+address.floor                 & 5     & \textless 1\%  \\
+\hline
+address.source                & 3     & \textless 1\%  \\
+\hline
+address.conscriptionnumber\_1 & 1     & \textless 1\%  \\
+\hline
+address.conscriptionnumber\_2 & 1     & \textless 1\%  \\
+\hline
+address.district              & 1     & \textless 1\%  \\
+\hline
+address.housenumber\_1        & 1     & \textless 1\%  \\
+\hline
+address.old\_street           & 1     & \textless 1\%  \\
+\hline
+address.street\_1             & 1     & \textless 1\%  \\
+\hline
+\end{tabular}
+
+% =============================================================================
+% References
+% =============================================================================
+
+\printbibliography
+
+\end{multicols}
+
+\end{document}

@@ -1,0 +1,2869 @@
+11
+1163
+13
+51. sz. főút
+513. utca
+69
+9
+Aba utca
+Abonyi utca
+Abádi tér
+Acsády Ignác utca
+Adonis utca
+Adony utca
+Adria utca
+Ady Endre
+Ady Endre sétány
+Ady Endre utca
+Ady Endre út
+Aggteleki utca
+Agyag utca
+Ajnácskő utca
+Akadémia utca
+Aknász utca
+Akác utca
+Akácfa utca
+Akácillat utca
+Akácos utca
+Alacskai út
+Alagút utca
+Albert Flórián utca
+Albert Flórián út
+Albert utca
+Albertfalva utca
+Alföldi utca
+Alig utca
+Alispán utca
+Alkotmány utca
+Alkotás utca
+Allende park
+Almavirág tér
+Almásháza utca
+Almássy tér
+Alsó Törökvész út
+Alsó utca
+Alsóerdősor utca
+Alsóhegy utca
+Alsóhegyi út
+Alíz utca
+Ambrus Zoltán utca
+Ambrus utca
+Amerikai út
+Andocs
+Andor utca
+Andrássy út
+Andássy út
+Angeli utca
+Angol utca
+Angyal utca
+Angyalföldi út
+Angyalka utca
+Anikó utca
+Anilin
+Ankara utca
+Anker köz
+Anna utca
+Anonymous utca
+Anonymus utca
+Antónia utca
+Anód utca
+Apaczai Csere Janos utca
+Apafi utca
+Apor Péter utca
+Apor Vilmos tér
+Apponyi Albert utca
+Apáczai Csere János utca
+Apály utca
+Apát utca
+Aradi utca
+Aranka utca
+Arany János
+Arany János utca
+Arany János út
+Aranyfácán utca
+Aranyfürt
+Aranyhegyi lejtő
+Aranykéz utca
+Aranylúd utca
+Arasz utca
+Arató Emil tér
+Arborétum
+Arborétum utca
+Aschner Lipót tér
+Aszfaltozó utca
+Asztalos Sándor út
+Asztalos utca
+Aszódi utca
+Aszú köz
+Aszú utca
+Athéni utca
+Atlasz
+Attila utca
+Attila út
+Aulich Lajos utca
+Aulich utca
+Auróra utca
+Babér utca
+Badacsonyi utca
+Bagolyvár köz
+Bagolyvár utca
+Bagária utca
+Bajcsi-Zsilinszky út
+Bajcsy-Zsilinszky Endre utca
+Bajcsy-Zsilinszky Endre út
+Bajcsy-Zsilinszky köz
+Bajcsy-Zsilinszky utca
+Bajcsy-Zsilinszky út
+Bajcsy-Zsillinkszy út
+Bajcsy-Zsillinszky utca
+Bajnai út
+Bajnok utca
+Bajor Gizi utca
+Bajor utca
+Bajza József utca
+Bajza utca
+Bakancsos utca
+Bakonyi utca
+Baksay Sándor utca
+Baktay tér
+Bakáts tér
+Bakáts utca
+Balassa utca
+Balassi Bálint utca
+Balassi utca
+Balassiho
+Balatoni út
+Balogh Ádám utca
+Balta köz
+Balzac utca
+Balzsam utca
+Balás Jenő utca
+Barackos út
+Baranyai utca
+Barkács utca
+Barlang utca
+Baross Gábor utca
+Baross tér
+Baross utca
+Bartók Béla tér
+Bartók Béla utca
+Bartók Béla út
+Bartókova
+Barázda utca
+Basa utca
+Batthyány Ilona utca
+Batthyány Lajos utca
+Batthyány köz
+Batthyány tér
+Batthyány utca
+Bauer Sándor utca
+Bazsalikom utca
+Beatrix utca
+Bebó Károly utca
+Becsei út
+Beethoven tér
+Beethoven utca
+Begónia utca
+Bekecs utca
+Belgrád rakpart
+Beller Imre utca
+Belényes utca
+Bem József tér
+Bem József utca
+Bem köz
+Bem rakpart
+Bem tér
+Bem utca
+Benczur utca
+Benczúr utca
+Bencés utca
+Benedek utca
+Benedikt Ottó utca
+Beniczky utca
+Bentonit utca
+Benyovszky Móric utca
+Bercsényi Miklós utca
+Bercsényi utca
+Bercsényi út
+Berda József utca
+Berente István utca
+Berettyó utca
+Berkenye utca
+Berlini utca
+Berni utca
+Bertalan Lajos utca
+Berzenczey utca
+Berzeviczy Gergely utca
+Berzsenyi Dániel tér
+Berzsenyi utca
+Berényi út
+Besenyő Bekő utca
+Besnyő utca
+Bessenyei utca
+Bethesda utca
+Bethlen Gábor tér
+Bethlen Gábor utca
+Betonozó utca
+Betű utca
+Bevásárló u 2
+Bevásárló utca
+Bezdán utca
+Bezerédi Pál utca
+Bezerédi köz
+Bezerédi utca
+Bezsilla Nándor utca
+Bibó István utca
+Bihari
+Bihari János utca
+Bihari utca
+Bikszádi utca
+Bikás park
+Bimbó út
+Birsalma utca
+Blaha Lujza tér
+Blaha Lujza utca
+Blaháné utca
+Bláthy Ottó utca
+Bocskai István utca
+Bocskai utca
+Bocskai út
+Bocskaiho
+Bodor utca
+Bodrog utca
+Bogdányi utca
+Boglár utca
+Boglárka utca
+Bognár utca
+Bogáncs utca
+Bokor utca
+Bokréta utca
+Boldogi út
+Bolgárkertész utca
+Bolyai Farkas utca
+Bolyai utca
+Borbála telep
+Borbély utca
+Borkő utca
+Bornemissza utca
+Boroka köz
+Borostyán utca
+Borotvás
+Borszéki utca
+Borsó utca
+Borz utca
+Boráros tér
+Boróka utca
+Bosnyák tér
+Bosnyák utca
+Bossányi Krisztina utca
+Botond utca
+Bottyán János utca
+Brassó utca
+Brassói utca
+Bregyó köz
+Brunszvik utca
+Bródy Sándor utca
+Brüsszeli utca
+Bucka utca
+Budafoki út
+Budai
+Budai Nagy Antal utca
+Budai út
+Budakalász utca
+Budakeszi út
+Budapesti főút
+Budapesti út
+Buday László utca
+Budaörsi út
+Budenz út
+Bujdosó köz
+Bukarest utca
+Bulcsú utca
+Burkoló utca
+Buzogány utca
+Bácska tér
+Bácska utca
+Bádogos utca
+Bálint György utca
+Bánhida utca
+Bánhidai lakótelep
+Bánki Donát utca
+Bánkút utca
+Bánomi út
+Bánya park
+Bánya utca
+Bányakápolna utca
+Bányalég utca
+Bányatelep
+Bányász körönd
+Bányász utca
+Bányász út
+Bárczi Géza utca
+Bárczy István tér
+Bárdos Artúr utca
+Bárdos László utca
+Bártfai utca
+Bástya utca
+Báthori István utca
+Báthori utca
+Báthory István park
+Báthory utca
+Bátonyi
+Bécsi köz
+Bécsi utca
+Bécsi út
+Bég utca
+Béke
+Béke sétány
+Béke tér
+Béke utca
+Béke út
+Békési utca
+Béla utca
+Bérc utca
+Béri Balogh Ádám utca
+Bérkocsi utca
+Bíró Lajos utca
+Bíró utca
+Bókay János utca
+Bökényföldi utca
+Bökényföldi út
+Bölcső
+Bölcső utca
+Börzsöny utca
+Böszörményi út
+Búvár utca
+Búzavirág utca
+Búzavirág út
+Bőröndös utca
+Cementgyári lakótelep
+Centenáriumi sétány
+Chernel István utca
+Chinoin utca
+Cházár András utca
+Ciklámen utca
+Cimbora utca
+Cinege út
+Cinke utca
+Cinkotai út
+Cirmos utca
+Citadella sétány
+Citrom utca
+Columbus utca
+Corvin János utca
+Corvin Ottó utca
+Corvin körút
+Corvin sétány
+Corvin tér
+Corvin út
+Csaba köz
+Csaba utca
+Csajág utca
+Csalogány utca
+Csanády utca
+Csap utca
+Csarnok tér
+Csata utca
+Csatlós utca
+Csatárka út
+Csavargyár utca
+Csemegi utca
+Csend utca
+Csengery utca
+Csenkesz
+Csepeli
+Csepeli út
+Csepreghy utca
+Cseresznyés út
+Cserfa utca
+Cserhalmi utca
+Cserhalom utca
+Cserhát utca
+Cserje utca
+Cserjes utca
+Csermely utca
+Csermely út
+Csertő park
+Csertő utca
+Cserző utca
+Csete Balázs uca
+Csete Balázs utca
+Csibor utca
+Csigás utca
+Csikvári út
+Csiky utca
+Csillag utca
+Csillés utca
+Csinszka utca
+Csipkebogyó utca
+Csiri utca
+Csiszoló utca
+Csitári G. Emil utca
+Csobánc utca
+Csobánci utca
+Csobánka tér
+Csobánkai utca
+Csokonai Vitéz Mihály utca
+Csokonai köz
+Csokonai utca
+Csoma utca
+Csombrád utca
+Csomádi út
+Csongor utca
+Csontváry Kosztka Tivadar
+Csontváry Kosztka Tivadar utca
+Csuka utca
+Csurgói utca
+Csurgói út
+Csákberény utca
+Csángó utca
+Csányi László utca
+Csányi utca
+Csányi út
+Csépi út
+Csésze utca
+Csévi utca
+Csíki-hegyek utca
+Csíksomlyó utca
+Csíkvári utca
+Csíky utca
+Csónak utca
+Csömöri út
+Csörsz utca
+Cukor utca
+Czakó utca
+Czetz János utca
+Czuczor utca
+Czóbel Béla utca
+Címer utca
+Dagály utca
+Dalszínház utca
+Damjanich
+Damjanich János utca
+Damjanich tér
+Damjanich utca
+Dandár utca
+Dankó utca
+Danubius utca
+Darnó utca
+Darukezelő utca
+Darázs utca
+Daróci utca
+Daróci út
+Delej utca
+Delta utca
+Dembinszky utca
+Derecske dűlő
+Dereglye utca
+Derék utca
+Dessewffy Arisztid utca
+Dessewffy utca
+Dessewfy utca
+Detrekő utca
+Dezső utca
+Deák Ferenc
+Deák Ferenc tér
+Deák Ferenc utca
+Deák tér
+Deák utca
+Diadal tér
+Diadal utca
+Dinnyési út
+Ditrói Mór utca
+Diófa utca
+Diós utca
+Diós árok
+Diósdi utca
+Diósdi út
+Diósy Lajos utca
+Diószeghy Sámuel utca
+Diószegi út
+Diótörő utca
+Diótörő út
+Dob utca
+Dob utca 55
+Dobó István utca
+Dobó Katalin utca
+Dobó Katica utca
+Dobó utca
+Dohány utca
+Dolgozó út
+Dolmány utca
+Dologház utca
+Domb utca
+Dombhát utca
+Dombos utca
+Dombóvári út
+Donáti köz
+Donáti utca
+Dormánd utca
+Dorozsmai utca
+Dr. Csányi László körút
+Dr. Koch László utca
+Dr. Léber Lajos utca
+Dr. Tulassay József tér
+Dr. Vécsey Károly utca
+Družstevný rad
+Drágfy köz
+Dráva utca
+Drégely utca
+Drégelyvár utca
+Dugonics utca
+Dukát utca
+Dulácska utca
+Dumtsa Jenő utca
+Duna korzó
+Duna utca
+Dunadűlő út
+Dunai fasor
+Dunakeszi utca
+Dunapart utca
+Dunavirág utca
+Dunyov István utca
+Dutka Ákos utca
+Dália utca
+Dámvad utca
+Dániel út
+Dányi utca
+Dávid Ferenc utca
+Dávid utca
+Dékán utca
+Déli pályaudvar, Kerengő
+Délibáb utca
+Dér utca
+Déryné köz
+Déryné utca
+Dévai Bíró Mátyás tér
+Dévai Gyula utca
+Dévai utca
+Dévény utca
+Dévényi út
+Dévér utca
+Dézsmaszéki utca
+Dísz tér
+Dózsa GYörgy út
+Dózsa György tér
+Dózsa György utca
+Dózsa György út
+Dózsa Györgyutca
+Dózsa Görgy út
+Dózsa köz
+Dózsa utca
+Ecetfa utca
+Ecsed utca
+Ecseri út
+Edömér utca
+Egervári utca
+Egres út
+Egressy Gábor utca
+Egressy tér
+Egressy út
+Egry József utca
+Egyetem tér
+Elek utca
+Elem utca
+Elnök utca
+Elvira utca
+Elza utca
+Elzamajor
+Előd utca
+Előd vezér utca
+Emma utca
+Endrődi Sándor utca
+Eperjesi utca
+Eperjesi út
+Erdei Ferenc utca
+Erdélyi utca
+Erdész köz
+Erdész utca
+Erdő utca
+Erdősor utca
+Erdősor út
+Erdősétány utca
+Erkel Ferenc utca
+Erkel Gyula utca
+Erkel utca
+Erzsébet királyné körút
+Erzsébet királyné útja
+Erzsébet körút
+Erzsébet tér
+Erzsébet utca
+Erzsébet út
+Erőd utca
+Esküdt utca
+Esküvő köz
+Esterházy János utca
+Esze Tamás utca
+Eszperantó köz
+Esztergomi út
+Esztergályos utca
+Eszterházy utca
+Eszék utca
+Eső utca
+Etele tér
+Etele út
+Etyeki utca
+Európa utca
+Evező utca
+Expo tér
+Ezerjó köz
+Ezüstfenyő tér
+Ezüsthegy utca
+Eötvös József utca
+Eötvös Lóránd utca
+Eötvös utca
+Eötvös út
+FSD Park
+Fadrusz János utca
+Fadrusz utca
+Faiskola tér
+Faiskola utca
+Falemez utca
+Falk Miksa utca
+Faludi utca
+Falujárók útja
+Faragó utca
+Farkas Erdő utca
+Farkasfog
+Farkashalom
+Farkashalom utca
+Farkasréti út
+Farkasszőlő utca
+Farkastorki út
+Favágó utca
+Fazekas utca
+Fecske utca
+Fegyvernek utca
+Fehér Hajó utca
+Fehér köz
+Fehér út
+Fehérkő
+Fehérvári út
+Fehérvári útca
+Fehét út
+Fejedelem utca
+Fejér György utca
+Fejér Lipót utca
+Fekete Sas utca
+Feketefej utca
+Feketerigó utca
+Felhévízi utca
+Felhő utca
+Felka utca
+Felső Zöldmáli út
+Felső utca
+Felsőcsatári út
+Felsőerdősor utca
+Felsőgalla utca
+Felsővár
+Felsővár utca
+Felvinci utca
+Felvinci út
+Fenyő utca
+Fenyőfa utca
+Ferde utca
+Ferenc körút
+Ferenc tér
+Ferenc utca
+Ferenciek tere
+Ferenczy István utca
+Ferihegyi út
+Festetics György utca
+Festetits utca
+Festő utca
+Feszty Árpád utca
+Fiastyúk utca
+Fillér utca
+Firtos utca
+Fiskális út
+Fiumei út
+Fivér utca
+Flottilla utca
+Flóra utca
+Flórián tér
+Fodor utca
+Fogarasi park
+Fogarasi út
+Fogas utca
+Fogaskerekű utca
+Fogoly utca
+Fogócska utca
+Folyamőr utca
+Folyondár utca
+Fonyód utca
+Fonó utca
+Forgách Sándor utca
+Forgách köz
+Forgách utca
+Forint utca
+Fortuna utca
+Fraknó utca
+Frangepán köz
+Frangepán utca
+Frankel Leó utca
+Frankel Leó út
+Frankhegy utca
+Futár utca
+Futó utca
+Futórózsa utca
+Fuvaros utca
+Fuvola utca
+Fácán sor
+Fácán utca
+Fáklya utca
+Fáy András lakótelep
+Fáy András sétány
+Fáy köz
+Fáy utca
+Fém utca
+Fény utca
+Fénycső utca
+Fényes Adolf utca
+Fényező utca
+Fóti út
+Fõ utca
+Föld utca
+Földmunkás utca
+Földmérő utca
+Föveny utca
+Fügefa utca
+Fülek utca
+Füleki utca
+Fürdő lépcső
+Fürdő utca
+Füredi park
+Füredi utca
+Fürt utca
+Füst Milán utca
+Füzes utca
+Fő
+Fő tér
+Fő utca
+Fő út
+Fővám tér
+Fűrészelő utca
+Fűtő utca
+Fűzfa utca
+Gabona utca
+Galagonya utca
+Galamb utca
+Galcsek utca
+Galgó utca
+Galgóczy utca
+Galopp utca
+Ganz utca
+Ganz Ábrahám utca
+Ganz Ábrahám út
+Garam utca
+Garay tér
+Garay utca
+Garó Emília utca
+Gazda utca
+Gazdagréti tér
+Gaštanová
+Gedeon Béla utca
+Gellért utca
+Gellért Új sor
+Gellérthegy utca
+Georgina utca
+Gera park
+Gereben utca
+Gerecse utca
+Gergely Győző utca
+Gergely utca
+Gergő utca
+Gerinc utca
+Gerlóczy utca
+Gesztenye sor
+Gesztenye utca
+Gesztenyefa sor
+Gidófalvy Lajos utca
+Gilice tér
+Gogol utca
+Golgota tér
+Gombos tér
+Graphisoft Park
+Grassalkovich Antal utca
+Grassalkovich utca
+Grassalkovich út
+Greguss utca
+Grádl Jenő utca
+Gróf Leiningen Károly utca
+Gubacsi út
+Gugásvölgyi utca
+Gulyás utca
+Gusztáv utca
+Gutenberg körút
+Gutenberg tér
+Gvadányi utca
+Gyakorló köz
+Gyakorló utca
+Gyalogos köz
+Gyenes utca
+Gyermek tér
+Gyermekliget
+Gyertyaláng utca
+Gyoma utca
+Gyorskocsi utca
+Gyula utca
+Gyulai Pál utca
+Gyulai tér
+Gyutacs utca
+Gyáli út
+Gyári út
+Gyékényes utca
+Gyógyszergyári utca
+Gyógyvíz utca
+Gyökér köz
+Gyömrői út
+Gyöngyház utca
+Gyöngyvirág utca
+Gyöngyvirág utca (Lónyaytelep) 8
+Gyöngyvér utca
+Gyöngyösi sétány
+Gyöngyösi utca
+György Oszkár tér
+György utca
+Gyümölcs utca
+Gyümölcsös út
+Győri út
+Győző utca
+Gyűrű utca
+Gyűrűs utca
+Gábor Dénes utca
+Gábor László utca
+Gábor utca
+Gábor Áron köz
+Gábor Áron utca
+Gács utca
+Gádor utca
+Gál István lakótelep
+Gálhegyi út
+Gálya utca
+Gárdonyi Géza utca
+Gát utca
+Gázláng utca
+Gébics utca
+Gém utca
+Gépmadár utca
+Gépész
+Gépész utca
+Géza utca
+Gózon Gyula utca
+Gödöllői út
+Gömb utca
+Gönczy Pál utca
+Göncöl utca
+Görgey Artúr tér
+Görgey Artúr utca
+Görgey utca
+Göröngyös utca
+Gül Baba utca
+Hadak útja
+Hadrianus utca
+Hadsereg utca
+Hajdú köz
+Hajdú utca
+Hajló utca
+Hajnal utca
+Hajnóczy József utca
+Hajtány sor
+Hajó utca
+Hajókovács utca
+Hajóállomás utca
+Halastó utca
+Haller utca
+Halmi József tér
+Halmi utca
+Halmy József tér
+Halász utca
+Halászy Károly utca
+Hamu utca
+Hamvas út
+Hamzsabégi út
+Hangár utca
+Hankóczy Jenő utca
+Harangvirág utca
+Haraszti köz
+Haraszti út
+Harcsa utca
+Harmat utca
+Harmincad utca
+Harrer Pál utca
+Hasadék utca
+Hatház utca
+Hattyú utca
+Hatvany Lajos utca
+Határ utca
+Határ út
+Határőr út
+Hauszmann Alajos utca
+Havanna utca
+Havas utca
+Havranek József utca
+Hegedű utca
+Hegedűs Gyula utca
+Hegy utca
+Hegyalja utca
+Hegyalja út
+Hegyeshalom utca
+Hegyessy tanya
+Hegyfok utca
+Hegyi utca
+Hegytető utca
+Helsinki út
+Heltai Jenő tér
+Henger utca
+Hengermalom utca
+Hengermalom út
+Henszlmann Imre utca
+Hercegprímás utca
+Herend utca
+Herman Ottó út
+Hermina út
+Hernád utca
+Herzen utca
+Hess András tér
+Hetény utca
+Hidegkúti út
+Hidász utca
+Hilda utca
+Himfy utca
+Hivatalnok utca
+Hlavná
+Hock János utca
+Hold utca
+Holland fasor
+Hollán Ernő utca
+Holló utca
+Hollós út
+Hollósy Simon utca
+Homok utca
+Homokkúp utca
+Homoktövis utca
+Homokóra utca
+Honfoglalás utca
+Honfoglalás út
+Honvéd utca
+Horogszegi határsor
+Hortenzia köz
+Horvát utca
+Horváth Mihály utca
+Horánszky utca
+Hosszú utca
+Hosszúsétatér
+Huba utca
+Huba vezér utca
+Hubay Jenő tér
+Hun utca
+Hungária krt.
+Hungária körút
+Hungária út
+Hungáris körút
+Hunor utca
+Hunyad köz
+Hunyad lejtő
+Hunyad-orom lépcsö
+Hunyadi János utca
+Hunyadi János út
+Hunyadi Mátyás út
+Hunyadi tér
+Hunyadi utca
+Hunyadvár utca
+Huszti út
+Huszár utca
+Hám Kálmán lakótelep
+Hárfa utca
+Háromszék utca
+Háros utca
+Hársalja utca
+Hársfa utca
+Hársfavirág utca
+Hévízi út
+Hímző utca
+Híradó utca
+Hírnök utca
+Hómező utca
+Hőgyes Endre utca
+Hős utca
+Hősök Tere
+Hősök fasora
+Hősök tere
+Hősök utca
+Hősök útja
+Hűvösvölgyi út
+II. János Pál Pápa tér
+II. János Pál pápa tér
+II. Rákóczi Ferenc út
+II. külterület
+IX. utca
+Ibolya utca
+Ifjúmunkás utca
+Ifjúság tér
+Ifjúság utca
+Ifjúság útja
+Iglói utca
+Ihász köz
+Ilka utca
+Illatos út
+Illek Vince utca
+Illyés Gyula utca
+Illés utca
+Imre utca
+Induló utca
+Infopark sétány
+Intarzia utca
+Ipar
+Ipar köz
+Ipar utca
+Ipari park
+Ipari park utca
+Iparos utca
+Ipartelep utca
+Ipoly utca
+Irhás árok
+Irinyi József utca
+Irtás utca
+Irány utca
+Irányi Dániel utca
+Irányi utca
+Isaszegi út
+Iskola köz
+Iskola tér
+Iskola utca
+Istenhegyi út
+István utca
+István út
+Istvántelki út
+Ivacs utca
+Ivánka Pál utca
+Izabella utca
+Izzó utca
+Jagelló út
+Jakab József utca
+Janda Vilmos utca
+Janicsár utca
+Jankovich Gyula utca
+Jegenye utca
+Jegenyefa utca
+Jeles utca
+Jesenského
+Jobbágy utca
+Jozefa Bema
+Judit utca
+Juhász Gyula utca
+Juliánus Barát utca
+Jupiter utca
+Jurisich Miklós utca
+Jutas utca
+János Zsigmond utca
+János utca
+Járműtelep utca
+Jász
+Jász utca
+Jászai Mari tér
+Jászai Mari utca
+Jászberényi
+Jászberényi út
+Jászivány utca
+Jászágó utca
+Jávor utca
+Jávorka Sándor utca
+Jázmin utca
+Jéggyár utca
+Jégverem utca
+Jókai Mór utca
+Jókai sor
+Jókai tér
+Jókai utca
+Jós utca
+Jósika utca
+Józef Wysocki utca
+József
+József Attila
+József Attila tér
+József Attila utca
+József Attila út
+József körút
+József nádor tér
+József tér
+József utca
+Józsefhegyi utca
+Kabar utca
+Kacsa utca
+Kada utca
+Kadarka utca
+Kadocsa utca
+Kakashegy
+Kakukkhegyi út
+Kalap utca
+Kalitka utca
+Kalmár utca
+Kamaraerdei út
+Kamilla utca
+Kampis Antal tér
+Kanberek
+Kandó Kálmán utca
+Kandó tér
+Kanizsai utca
+Kanyargó utca
+Kapisztrán tér
+Kapisztrán utca
+Kapolcs utca
+Kaptárkő utca
+Kapy utca
+Kapás utca
+Karatna tér
+Karatna utca
+Karcsú Arzén utca
+Karikás Frigyes utca
+Karikó János utca
+Karinthy Frigyes út
+Karolina
+Karolina út
+Karton utca
+Kartács utca
+Karácsony Sándor
+Karácsony Sándor utca
+Kassa utca
+Kassai tér
+Kassai utca
+Kassák Lajos utca
+Kastély park
+Kastély utca
+Kastélykert
+Kasza utca
+Kaszap István utca
+Kaszáló utca
+Kaszásdűlő utca
+Katona József utca
+Katona Lajos utca
+Katód utca
+Kavics utca
+Kazinczy Ferenc körút
+Kazinczy Ferenc utca
+Kazinczy körút
+Kazinczy utca
+Kazán utca
+Kecskeméti József utca
+Kecskeméti utca
+Kedves utca
+Kehely utca
+Keled út
+Kelemen László utca
+Kelemen utca
+Kelenföldi út
+Kelenhegyi út
+Keleti Károly utca
+Kelta utca
+Kelén utca
+Kende utca
+Kenderes utca
+Kenyeres utca
+Kenyérmező utca
+Kerekdomb utca
+Kerekes utca
+Kerepesi út
+Kereszt utca
+Kereszthegy utca
+Keresztúri út
+Kert utca
+Kertalja utca
+Kertész
+Kertész utca
+Kerék utca
+Kerékgyártó utca
+Kerényi Frigyes köz
+Kerényi Frigyes utca
+Keselyű út
+Keszeg sor
+Keszkenő utca
+Kesztölci út
+Kevélyhegyi utca
+Kilátó utca
+Kinizsi Pál utca
+Kinizsi utca
+Király Pál utca
+Király utca
+Királyhágó tér
+Királyhágó utca
+Királyi Pál utca
+Királykuti utca
+Királyok útja
+Kis Diófa utca
+Kis Fuvaros utca
+Kis Gömb utca
+Kis Rókus utca
+Kis Salétrom utca
+Kis Stáció utca
+Kis köz
+Kis nyírfa utca
+Kis utca
+Kis-Duna sor
+Kisasszony utca
+Kiscelli utca
+Kisfaludi utca
+Kisfaludy Sándor utca
+Kisfaludy utca
+Kiskert utca
+Kiskorona utca
+Kiskőrös utca
+Kisrákos utca
+Kiss Ernő utca
+Kiss János altábornagy utca
+Kiss utca
+Kisvölgy utca
+Kitaibel Pál utca
+Klapka György utca
+Klapka utca
+Klauzál tér
+Klauzál utca
+Klebelsberg Kunó utca
+Klebersberg Kuno utca
+Klisovác dűlő
+Klára utca
+Kmety György utca
+Kmetz lépcső
+Knáb János utca
+Knézich Károly utca
+Knézich utca
+Kocsis utca
+Kocsola utca
+Kodály Zoltán utca
+Kohó utca
+Kokárda utca
+Kolosy tér
+Kolozs utca
+Kolozsvár köz
+Kolozsvár tér
+Kolozsvár utca
+Kolozsvári Tamás utca
+Kolozsvári utca
+Koma utca
+Komenského
+Komenského ulica
+Komjádi Béla utca
+Komor Marcell utca
+Komp utca
+Komáromi utca
+Komócsy utca
+Kond utca
+Kond vezér utca
+Kondor Béla sétány
+Kondor út
+Kondorkert utca
+Kondorosi út
+Konkoly-Thege Miklós út
+Kont utca
+Konytfa utca
+Kopaszi gát
+Koppány utca
+Koppány vezér utca
+Kordován tér
+Kornyai Mihály utca
+Korompai utca
+Korompai út
+Korona tér
+Koronafürt utca
+Kosciuszko Tádé utca
+Kosdi utca
+Kossuth Lajos
+Kossuth Lajos köz
+Kossuth Lajos tér
+Kossuth Lajos utca
+Kossuth Lajos út
+Kossuth Lajos üdülőpart
+Kossuth tér
+Kossuth utca
+Kossuthova
+Kosztolányi Dezső tér
+Kosztolányi Dezső utca
+Kosár utca
+Kovács utca
+Kovászna utca
+Kozma utca
+Kozmonautov
+Kozmosz sétány
+Kozák tér
+Kresz Géza utca
+Kripton utca
+Kristóf tér
+Krisztina körút
+Krisztina tér
+Kritsztina krt.
+Krizamtém utca
+Krizantém utca
+Kruspér utca
+Krúdy Gyula utca
+Kubikos utca
+Kucsma
+Kucsma utca
+Kunhalom utca
+Kunigunda út
+Kunigunda útja
+Kuny Domonkos utca
+Kurucz utca
+Kádár utca
+Káldor Adolf utca
+Kálmán Imre tér
+Kálvin János utca
+Kálvin tér
+Kálvária köz
+Kálvária utca
+Kálvária út
+Kályhás utca
+Kámfor utca
+Kántor utca
+Kántorné sétány
+Kápolna köz
+Kápolna utca
+Káposztásmegyeri út
+Káptalan utca
+Kármán utca
+Károli Gáspár tér
+Károli Gáspár utca
+Károly Ireneusz József utca
+Károly király utca
+Károly király út
+Károly körút
+Károly utca
+Károlyi István utca
+Károlyi Mihály utca
+Károlyi utca
+Kárpitos utca
+Kárpát utca
+Kártya utca
+Kátai út
+Kék Golyó utca
+Kékgolyó utca
+Kéktó tér
+Kéményseprő utca
+Kéményseprők tere
+Kép utca
+Képíró utca
+Kérő utca
+Késmárk utca
+Késmárki utca
+Kéthly Anna tér
+Kígyó utca
+Kókai utca
+Kós Károly tér
+Kós Károly utca
+Kós Majomház
+Kóspallagi út
+Kóta József utca
+Kökény utca
+Kökörcsin utca
+Kölcsey Ferenc utca
+Kölcsey utca
+Kömény utca
+Könyves Kálmán körút
+Körmend utca
+Körte utca
+Körvasút sor
+Körző utca
+Körös utca
+Körösfői Kriesch Aladár utca
+Körösfői Kriesch aladár utca
+Köszörűs utca
+Kötő utca
+Köves utca
+Kövező utca
+Kövidinka utca
+Kövér Lajos utca
+Közgazdász utca
+Közműhelytelep utca
+Központi út
+Közraktár utca
+Községház utca
+Köztelek utca
+Köztársaság tér
+Köztársaság utca
+Köztársaság út
+Köztársaság útja
+Kútföldi utca
+Kútvölgyi út
+Külső Mester utca
+Külső Szilágyi út
+Külterület 0195/18 hrsz
+Kürt utca
+Kő utca
+Kőbányai út
+Kőfaragó utca
+Kőműves utca
+Kőpor köz
+Kőrózsa utca
+Kőrösi Csoma Sándor utca
+Kőrösi Csoma Sándor út
+Kőrösi Csoma sétány
+Kőrösi József utca
+Kőszeg utca
+Kővirág sor
+Kőér utca
+Kőérberki utca
+Labanc út
+Labdarugó köz
+Labdarugó utca
+Labdaverő utca
+Laborfalvi Róza utca
+Lacházi út
+Laczfy köz
+Lahner György utca
+Lajos utca
+Lajtha László utca
+Lakatos utca
+Lakatos út
+Lakkozó utca
+Laktanya utca
+Laky Adolf utca
+Langlet Waldemár utca
+Lanner György utca
+Latabár Kálmán utca
+Leander utca
+Lebstück Mária utca
+Lechner Ödön fasor
+Lehel
+Lehel utca
+Leiningen Károly utca
+Leiningen út
+Lejtő utca
+Len utca
+Lenhossék utca
+Lepke utca
+Lepkevirág utca
+Leshegy dűlő
+Leshegy utca
+Levendula utca
+Leányka utca
+Lidérc utca
+Liget tér
+Liget utca
+Lilaakác köz
+Liliom utca
+Lipthay utca
+Liszenkó telep 0318 hrsz.
+Lisznyai utca
+Liszt Ferenc sétány
+Liszt Ferenc tér
+Liszt Ferenc utca
+Litva utca
+Lobogó utca
+Logodi utca
+Lomb utca
+Lombos utca
+Loránd utca
+Losonci tér
+Losonczi utca
+Lotz Károly utca
+Lovag utca
+Lovas út
+Lublói utca
+Ludovika tér
+Lukács György utca
+Lukács utca
+Lumniczer Sándor utca
+Lupa-szigeti leágazás
+Lupa-szigeti út
+Luther Márton utca
+Lágymányosi utca
+Láng utca
+László utca
+Lázár Vilmos utca
+Lázár deák utca
+Lázár utca
+Légcsavar utca
+Légszesz utca
+Lékai bíboros tér
+Léva utca
+Lévai utca
+Lóczy Lajos utca
+Lónyay utca
+Lórántffy Zsuzsanna utca
+Lóverseny tér
+Lövölde utca
+Lövőház utca
+Lőcsei utca
+Lőcsei út
+Lőportár utca
+Lőrinc pap tér
+Lőrinc utca
+Lőwy Izsak utca
+M. Zrínskeho
+M0
+Madarász Viktor utca
+Madridi utca
+Madzsar József utca
+Madách Imre tér
+Madách Imre utca
+Madách Imre út
+Madács Imre utca
+Magas utca
+Magdics utca
+Magdolna utca
+Maglódi út
+Magtár utca
+Magyar Jakobinusok tere
+Magyar Kázmér köz
+Magyar tudósok körútja
+Magyar utca
+Majdán utca
+Major utca
+Majoránna utca
+Malom utca
+Maléter Pál utca
+Mandula utca
+Mandulás utca
+Margaréta utca
+Margaréta út
+Margit
+Margit körút
+Margit utca
+Margó Tivadar utca
+Mariavölgy
+Marika telep
+Markovits Iván utca
+Markó utca
+Marokszedő utca
+Maros utca
+Martinovics Ignác utca
+Martsa Alajos utca
+Mateja Bela
+Mecset utca
+Meddőhányó utca
+Meder utca
+Medgyessy Ferenc utca
+Medve utca
+Meggyes utca
+Meggyfa utca
+Megyeház köz
+Megyeház utca
+Megyeri temető
+Megyeri út
+Menedékes utca
+Mentő utca
+Menyasszony utca
+Menyecske
+Meredek utca
+Merkúr utca
+Mese utca
+Mester
+Mester sor
+Mester utca
+Mesterházi Lajos tér
+Mexikói út
+Mező utca
+Mezőkövesd út
+Miatyánk utca
+Mierová
+Mihály Dénes köz
+Mihály utca
+Mikes Kelemen köz
+Mikes Kelemen utca
+Mikes utca
+Miklós utca
+Mikszáth Kálmán tér
+Mikszáth Kálmán utca
+Mildenberger utca
+Milós utca
+Mimóza utca
+Mindszenty utca
+Mirtusz utca
+Miskolci
+Mogyoród útja
+Mogyoródi út
+Mohai út
+Mohács utca
+Molnár Viktor utca
+Molnár utca
+Monostori út
+Montevideo utca
+Mosoly utca
+Mosonyi utca
+Mozdonyfűtő utca
+Mozdonyvezető utca
+Muflon utca
+Muhar utca
+Munkácsy Mihály utca
+Munkácsy Mihály út
+Munkácsy liget
+Munkás tér
+Munkás utca
+Munkásotthon utca
+Mura utca
+Murányi utca
+Muskátli utca
+Must köz
+Mustár utca
+Mádi utca
+Mády Lajos utca
+Máglya köz
+Mágnes utca
+Május 1 tér
+Május 1. utca
+Mák utca
+Málna utca
+Mályva
+Mályva utca
+Mányi út
+Mányoki út
+Máramaros ut
+Március 15 tér
+Március 15. tér
+Március 15. utca
+Márga utca
+Mária tér
+Mária utca
+Máriaremetei út
+Máriavölgy
+Márta utca
+Márton utca
+Mártírok útja
+Márvány utca
+Mátka utca
+Mátyás Király utca
+Mátyás király körút
+Mátyás király tér
+Mátyás király utca
+Mátyás király út
+Mátyás tér
+Mátyás utca
+Mátészalka utca
+Mázoló utca
+Méh utca
+Méhész utca
+Mélykút utca
+Ménesi út
+Mérnök utca
+Mészáros József utca
+Mészáros Lázár utca
+Mészáros Lőrinc utca
+Mészáros utca
+Mészöly Géza utca
+Mókus utca
+Mór utca
+Móra Ferenc utca
+Móricz Zsigmond körtér
+Móricz Zsigmond utca
+Móricz zsigmond körtér
+Múzeum körút
+Múzeum utca
+Műszerész utca
+Művezető utca
+Na vyhliadke
+Nadapi út
+Nador utca
+Nagy Diófa utca
+Nagy Duna sétány
+Nagy Ignác utca
+Nagy Lajos király útja
+Nagy Lajos körút
+Nagy Lajos út
+Nagy Sándor József utca
+Nagy Sándor köz
+Nagy Templom utca
+Nagydiófa utca
+Nagyduna sétány
+Nagyenyed utca
+Nagykikinda köz
+Nagykikinda utca
+Nagykovácsi út
+Nagyközép út
+Nagykőrösi
+Nagykőrösi út
+Nagymező utca
+Nagymihály utca
+Nagyrét utca
+Nagysalló utca
+Nagyszalonta utca
+Nagyszeben tér
+Nagyszeben út
+Nagyszombat utca
+Nagyszombati utca
+Nagyszénás utca
+Nagyszőlős utca
+Nagysándor József utca
+Nagytemplom
+Nagytemplom utca
+Nagytétényi út
+Nagyvarsányi út
+Nagyvárad tér
+Nagyvárad utca
+Nagyváradi utca
+Nap utca
+Napfény utca
+Naphegy
+Naphegy tér
+Naphegy utca
+Napközi utca
+Naplás út
+Naprét utca
+Naprózsa utca
+Napsugár utca
+Napszámos utca
+Narancsfa utca
+Naspolya utca
+Naszályi utca
+Nefelejcs utca
+Nemes utca
+Nemes út
+Nemzetőr utca
+Neszmélyi köz
+Neszmélyi út
+Neumann János utca
+Nomád part
+Nová
+Noémi utca
+Nyitrai utca
+Nyomdász utca
+Nyugati tér
+Nyár utca
+Nyár utca / Nagy diófa utca
+Nyáregyházi út
+Nyárfa utca
+Nyári Pál utca
+Nyáry Pál utca
+Nyílhegy utca
+Nyílpuska utca
+Nyíltárok utca
+Nyír utca
+Nyírfa utca
+Nyírpalota
+Nyírpalota utca
+Nyírpalota út
+Nyírség utca
+Nádas utca
+Nádasdy Ferenc utca
+Nádasdy Kálmán utca
+Nádasdy Tamás utca
+Nádasdy utca
+Nádor utca
+Nádorliget utca
+Nám. slobody
+Nándorfejérvári út
+Nánási út
+Nárcisz utca
+Násznagy utca
+Némedi út
+Német
+Német utca
+Németh László utca
+Németi Ernő utca
+Németvölgyi út
+Népfelkelő utca
+Népfürdő sétány
+Népfürdő utca
+Népház utca
+Népliget
+Népsziget út
+Népszínház utca
+Nógrádi utca
+Nóra utca
+Növény utca
+Nővér utca
+Obsitos tér
+Obsitos utca
+Odray János utca
+Oktogon
+Oktogon tér
+Október 6. utca
+Október huszonharmadika utca
+Olvasztár utca
+Omszk Park
+Omszk park
+Ond utca
+Ond vezér park
+Ond vezér útja
+Oportó köz
+Opál utca
+Orczy út
+Orgona köz
+Orgona utca
+Orom utca
+Orosvai utca
+Oroszlán utca
+Ország út
+Országbíró utca
+Országház utca
+Országzászló tér
+Orvos utca
+Oskola utca
+Ostrom utca
+Osztály utca
+Otelló utca
+Ottó Ferenc utca
+Ozmán utca
+Pablo Neruba utca
+Pacsirta
+Pacsirta utca
+Pajkos utca
+Pajtás utca
+Palota út
+Palota-kert
+Palotai út
+Palotakert
+Palotás tér
+Palotás utca
+Palánk utca
+Palánkai utca
+Palánta utca
+Palóc
+Palóc utca
+Pannon út
+Pannónia utca
+Pannónia út
+Panoráma utca
+Pap Károly utca
+Papnövelde utca
+Paprét utca
+Pasaréti tér
+Pasaréti út
+Paszomány utca
+Patak sor
+Patak tér
+Patak utca
+Patakhegyi utca
+Patkó utca
+Patróna utca
+Pattantyús utca
+Pattogós utca
+Patvar utca
+Patyolat köz
+Patyolat utca
+Paulay Ede utca
+Pauler utca
+Paál László köz
+Pedellus utca
+Pentele utca
+Perc utca
+Perczel Mór utca
+Perjés utca
+Perényi Zsigmond utca
+Pesti Barnabás
+Pesti út
+Pestújhelyi tér
+Pestújhelyi út
+Pethényi köz
+Petneházy utca
+Petróczy utca
+Petz Ferenc utca
+Petzvál József utca
+Petúr utca
+Petőfi
+Petőfi Sándor köz
+Petőfi Sándor tér
+Petőfi Sándor utca
+Petőfi híd (budai hídfő)
+Petőfi tér
+Petőfi utca
+Petőfiho
+Piac tér
+Piac utca
+Piarista utca
+Pilinszky János utca
+Pillangó park
+Pilóta utca
+Pince tér
+Pinceszer utca
+Pincevölgy út
+Pinty utca
+Pintér József utca
+Pintér utca
+Pipa utca
+Pipacs utca
+Pipitér utca
+Pirosalma utca
+Piszke utca
+Piszkei lakótelep
+Piszkei utca
+Pisztráng utca
+Platánfa utca
+Podmaniczky Zsuzsanna utca
+Podmaniczky utca
+Poeltenberg Ernő utca
+Pogánytorony utca
+Pollack Mihály tér
+Pomázi út
+Pongrácz Gergely tér
+Ponty utca
+Porcsinrózsa utca
+Posta park
+Posta utca
+Povl Bang-Jensen utca
+Pozsony utca
+Pozsonyi utca
+Pozsonyi út
+Premontrei utca
+Premontrei út
+Prielle Kornélia utca
+Prodám
+Prodám utca
+Prohászka Ottokár út
+Práter utca
+Prés köz
+Pulszky utca
+Puskin
+Puskin köz
+Puskin utca
+Puskás Ferenc Stadion
+Puskás Ferenc utca
+Pusztakúti út
+Pusztaszer köz
+Pusztaszeri út
+Putnok utca
+Pácoló utca
+Páfrány utca
+Páfránykert utca
+Pál utca
+Pállya Celesztin utca
+Pálya utca
+Párizsi utca
+Párkány utca
+Páskomliget utca
+Pásztor köz
+Pásztordomb tér
+Pásztorlány utca
+Páter Károly utca
+Páter Károly út
+Páva utca
+Pázmány Péter sétány
+Pázmány Péter utca
+Pázsitos sétány
+Pék utca
+Péter Pál utca
+Péter utca
+Péterhegyi lejtő
+Pétervárad utca
+Pézsma utca
+Pöltenberg Ernő utca
+Radnai utca
+Radnóti Miklós utca
+Radnóti tér
+Radóc utca
+Rahó utca
+Rajki Márton tér
+Rakéta utca
+Raoul Wallenberg utca
+Recés utca
+Rege út
+Reguly Antal utca
+Regős köz
+Regős utca
+Reitter Ferenc utca
+Rekettye utca
+Remete út
+Remeteségpuszta
+Remsey Jenő körút
+Remény utca
+Reményi Ede utca
+Reménység utca
+Rend utca
+Repülőtéri út
+Retek utca
+Revicky utca
+Reviczky J. utca
+Reviczky utca
+Rezeda utca
+Rezgő utca
+Rezgőfű utca
+Rezső tér
+Reáltanoda utca
+Riadó utca
+Ribizke utca
+Ribizli utca
+Rigmus utca
+Rigó utca
+Rimaszombati út
+Riminyáki út
+Ring Kálmán út
+Ringló út
+Ripka Ferenc utca
+Rodostó utca
+Roham utca
+Rokolya utca
+Rokon utca
+Ronyva utca
+Roosevelt tér
+Roskovics utca
+Rottenbiller utca
+Rozgonyi Piroska utca
+Rozgonyi köz
+Rozmaring utca
+Rozs utca
+Rozsnyai utca
+Rozsnyay utca
+Rozália utca
+Rumbach Sebestyén utca
+Rác köz
+Rác utca
+Rácz Aladár út
+Rácz László utca
+Rácz Pál utca
+Rácz zug
+Ráday Gedeon utca
+Ráday utca
+Rádi út
+Rádió utca
+Rákoczi köz
+Rákoczi út
+Rákos köz
+Rákos patak utca
+Rákos utca
+Rákos út
+Rákos-patak
+Rákosi út
+Rákosligeti határút
+Rákospalotai határút
+Rákospalotai körvasútsor
+Rákospalotai út
+Rákóczi Ferenc utca
+Rákóczi Ferenc út
+Rákóczi kert
+Rákóczi tér
+Rákóczi utca
+Rákóczi út
+Rákócziho
+Ráskay Lea utca
+Ráth György utca
+Rátz László utca
+Rädda Barnen utca
+Régi Fóti út
+Régi tér
+Régiposta utca
+Régész utca
+Rét utca
+Rétifarkas utca
+Rétifű utca
+Rétköz
+Rétköz utca
+Rév utca
+Révai utca
+Révay köz
+Révész utca
+Rézsű utca
+Róbert Károly körút
+Róka utca
+Rókahegyi út
+Rókales utca
+Római part
+Római sánc utca
+Római tér
+Római utca
+Római út
+Rómer Flóris utca
+Róna utca
+Rónai György utca
+Rózsa Ferenc utca
+Rózsa köz
+Rózsa sétány
+Rózsa utca
+Rózsa út
+Rózsabokor utca
+Rózsafa utca
+Rózsahegyi
+Rózsahegyi utca
+Rózsalevél utca
+Rózsavölgyi köz
+Röges utca
+Rökk Szilárd utca
+Röntgen utca
+Röppentyű köz
+Röppentyű utca
+Rövid utca
+Rőzse utca
+Sajka utca
+Salamontorony utca
+Salgói utca
+Salgótarjáni út
+Sallai Imre utca
+San Marco utca
+Sarkadi Imre utca
+Sarlósfecske utca
+Saroglya utca
+Sas utca
+Sasadi út
+Sasbérc utca
+Sashalmi tér
+Sashegyi köz
+Sashegyi út
+Sasvár utca
+Sasvári utca
+Scheiber Sándor utca
+Schmall Zsigmond utca
+Schwartzer Ferenc utca
+Schweidel József utca
+Selmeci utca
+Selyem utca
+Semmelweis Ignác utca
+Semmelweis tér
+Semmelweis utca
+Seregély utca
+Seregélyesi út
+Sigray István utca
+Sima utca
+Simonyi Zsigmond utca
+Simító utca
+Siroki utca
+Smetanova
+Sobieskeho
+Sodronyos utca
+Solt
+Solt utca
+Solymár utca
+Somfa köz
+Somfa utca
+Somkút utca
+Somogyi Béla utca
+Somoskő utca
+Sopron utca
+Sopron út
+Soproni út
+Soroksári út
+Sport
+Sport köz
+Sport utca
+Sporttelep utca
+Stefánia ut
+Stefánia út
+Steindl Imre utca
+Stoczek József utca
+Stollár Béla utca
+Stróbl Alajos utca
+Stáhly utca
+Stúdium tér
+Surin István utca
+Sv. Štefana
+Sváb tér
+Svájci út
+Svätoplukova
+Szabadharcosok útja
+Szabadka utca
+Szabadkai utca
+Szabadság köz
+Szabadság tér
+Szabadság utca
+Szabadság út
+Szabadságharcos út
+Szabaság tér
+Szabina út
+Szabolcs köz
+Szabolcs utca
+Szabolcsi Bence tér
+Szabolcska Mihály utca
+Szabó Ervin tér
+Szabó Ilonka utca
+Szabó Lőrinc utca
+Szadai út
+Szajkó utca
+Szajol utca
+Szakadék út
+Szakály Mátyás utca
+Szalag utca
+Szalonka út
+Szamorodni utca
+Szamos utca
+Szamóca utca
+Szanatórium utca
+Szarka utca
+Szarkaláb utca
+Szarvas Gábor út
+Szarvas tér
+Szarvashegy utca
+Szarvasmező utca
+Szatmárhegy utca
+Szedő utca
+Szegedi út
+Szegfű Gyula utca
+Szegfű utca
+Szekfű Gyula utca
+Szekfű utca
+Szekszárdi utca
+Szellő utca
+Szemere köz
+Szemere utca
+Szendrői utca
+Szent András
+Szent Anna utca
+Szent Borbála lakótelep
+Szent Erzsébet tér
+Szent Erzsébet utca
+Szent Flórián körút
+Szent Flórián utca
+Szent Gellért tér
+Szent György utca
+Szent Imre körút
+Szent Imre tér
+Szent Imre utca
+Szent Imre út
+Szent István körút
+Szent István körút 13
+Szent István park
+Szent István tér
+Szent István utca
+Szent István út
+Szent János tér
+Szent János utca
+Szent József utca
+Szent Korona utca
+Szent Korona útja
+Szent László tér
+Szent László utca
+Szent László út
+Szent Orbán tér
+Szent imre utca
+Szentcsalád tér
+Szentendrei utca
+Szentendrei út
+Szentgyörgyi Albert utca
+Szentgyörgyi Albert út
+Szentháromság tér
+Szentháromság utca
+Szentkirályi utca
+Szentkorona útja
+Szentlélek tér
+Szentlőrinci út
+Szentmihályi út
+Szentpétery utca
+Szerb utca
+Szerdahelyi utca
+Szerelmey Miklós utca
+Szerelő utca
+Szerencs
+Szerencs utca
+Szervita tér
+Szerémi út
+Sziget
+Sziget út
+Szigetelő utca
+Szigeti József utca
+Szigetvári utca
+Szigony utca
+Szikla utca
+Szikratávíró utca
+Szilaspatak sor
+Szilassy utca
+Szilassy út
+Szilfa utca
+Szilhát utca
+Szilke utca
+Szilvafa utca
+Szilágyi Dezső tér
+Szilágyi Erzsébet fasor
+Szilágyi Mihály
+Szilágyi utca
+Szilárd Leó
+Szilárd utca
+Szipka utca
+Szirom utca
+Szirtes utca
+Szirtes út
+Szitakötő utca
+Szivárvány
+Szivárvány utca
+Szlovák út
+Szobi utca
+Szobor utca
+Szokolyai út
+Szomolnok utca
+Szomszéd utca
+Szondi György utca
+Szondi tér
+Szondi utca
+Szovátai utca
+Szpáhi utca
+Szt. Gellért tér
+Sztregova utca
+Szugló utca
+Szurdok dűlő
+Szzállás
+Szállás
+Számadó utca
+Száraznád utca
+Szárcsa utca
+Szárnyas utca
+Száráfisz utca
+Száva utca
+Százados út
+Százszorszép utca
+Széchenyi István tér
+Széchenyi István utca
+Széchenyi Zsigmond utca
+Széchenyi tér
+Széchenyi utca
+Széchenyi út
+Széchényi utca
+Széchényiho
+Széher út
+Székely Mihály utca
+Székely utca
+Székesdűlő
+Székács utca
+Széles utca
+Széll Kálmán tér
+Széna tér
+Szénégető utca
+Szép Juhászné köz
+Szép Juhászné út
+Szép utca
+Széphalom utca
+Szépkilátás út
+Szépvölgyi út
+Szérűskert utca
+Szíjgyártó utca
+Színház utca
+Szív utca
+Szófia utca
+Szövő utca
+Szövőgyár
+Szüret utca
+Sződligeti utca
+Szőlő köz
+Szőlő utca
+Szőlődomb utca
+Szőlőhegy utca
+Szőlőhegyi út
+Szőlőskert utca
+Szőlőtelep utca
+Szőnyi István utca
+Szűcs István utca
+Szűk utca
+Szűz utca
+Sáfrány utca
+Ságvári Endre út
+Sánc utca
+Sándor utca
+Sárbereki lakótelep
+Sárbogárdi utca
+Sárbogárdi út
+Sárfű utca
+Sárgarózsa
+Sárkány utca
+Sárosdi utca
+Sás utca
+Sásfű utca
+Sátorkői utca
+Séta utca
+Sétáló utca
+Sík Sándor utca
+Síp utca
+Sírkert utca
+Só utca
+Sógor utca
+Sólyatér utca
+Sólyom utca
+Sóskúti út
+Sóvirág utca
+Sörgyár utca
+Sörház utca
+Sörétgyár utca
+Süllő utca
+Süssen utca
+TODO2
+Tabán utca
+Tabódy Ida tér
+Tahi utca
+Taksony sor
+Taksony utca
+Takács utca
+Taliga utca
+Tamara utca
+Tambura utca
+Tanuló utca
+Tanító utca
+Tar utca
+Tarasz Sevcsenko tér
+Tarcali utca
+Tardoskedd utca
+Tarkarét utca
+Tarsay Vilmos utca
+Tartsay Vilmos utca
+Tas utca
+Tas vezér utca
+Tasnádi utca
+Tatai utca
+Tavas utca
+Tavasz utca
+Tegzes utca
+Tejút utca
+Tekercselő utca
+Teleki László tér
+Teleki utca
+Teleki út
+Telep utca
+Telepi út
+Telepy utca
+Teleszkóp utca
+Telkes utca
+Telki út
+Temesvár utca
+Temesvári utca
+Temető utca
+Templom köz
+Templom tér
+Templom utca
+Templomalja utca
+Templomkert utca
+Tengelice utca
+Tengeri utca
+Tenkes utca
+Terasz utca
+Terebesi utca
+Termő utca
+Terstyánszky utca
+Teréz körút
+Tessedik Sámuel utca
+Testvériség tér
+Testvérvárosok útja
+Teszerász Károly utca
+Tetőfedő utca
+Teve utca
+Thallóczy Lajos utca
+Thaly Kálmán utca
+Thegze Lajos utca
+Thurzó utca
+Thán Károly utca
+Thököly utca
+Thököly út
+Timót utca
+Tinódi Lantos Sebestyén utca
+Tinódi utca
+Tippan utca
+Tisza István tér
+Tisza utca
+Tiszakömlő utca
+Tisztes utca
+Toborzó köz
+Toborzó udvar
+Toborzó utca
+Toboz utca
+Tokaji utca
+Toldalagi Pál utca
+Toldi utca
+Toldy Ferenc utca
+Toldy utca
+Tolmács utca
+Tomori köz
+Tomori utca
+Tompa
+Tompa Mihály utca
+Tompa utca
+Topolya utca
+Torbágy utca
+Torda utca
+Tordai út
+Tornagörgő utca
+Trefort utca
+Trencséni utca
+Tulipán utca
+Tungsram utca
+Turbina utca
+Turul köz
+Turul utca
+Turóc utca
+Tutaj utca
+Táblás utca
+Tábor utca
+Tábornok utca
+Tállya utca
+Táltos utca
+Táncsics
+Táncsics Mihály köz
+Táncsics Mihály utca
+Táncsics Mihály út
+Táncsics utca
+Tárnok utca
+Tárnoki út
+Társasház utca
+Tátika utca
+Tátra utca
+Távirda út
+Téglagyár utca
+Téglagyártó utca
+Tél utca
+Tétényi út
+Tímár utca
+Tó utca
+Tófalva utca
+Tópark utca
+Tópart utca
+Tóth Aladár
+Tóth Aladár utca
+Tóth István utca
+Tóth Lőrinc utca
+Tóth Ágoston utca
+Tóvárosi lakónegyed
+Tóvárosi utca
+Töhötöm utca
+Töki utca
+Tököli út
+Tölgyes út
+Tölgyfa utca
+Tömörkény utca
+Tömő utca
+Törzs utca
+Török Ignác utca
+Török Pál utca
+Török utca
+Törökbálinti utca
+Törökbálinti út
+Törökugrató utca
+Törökvész lejtő
+Törökvész utca
+Törökvész út
+Törökvölgyi út
+Törökőr
+Törökőr utca
+Tövis
+Tövis utca
+Túr utca
+Túróc utca
+Tücsök utca
+Tükörhegy utca
+Tülök utca
+Türr István utca
+Tüzér utca
+Tűlevél utca
+Tűzkő utca
+Tűzoltó utca
+Udvarhely utca
+Ugocsa utca
+Ugró Gyula utca
+Ulászló utca
+Undi Marika utca
+Ungvár utca
+Unoka utca
+Uszoda utca
+Uszály utca
+Utász utca
+Uzsoki utca
+VII. utca
+VIII. utca
+Vaci ut
+Vadalma utca
+Vadetető utca
+Vadgesztenye utca
+Vadkörte utca
+Vadrózsa utca
+Vadvirág utca
+Vadászhegyi utca
+Vadászkürt utca
+Vajda Péter utca
+Vajdahunyad utca
+Vajk utca
+Vak Bottyán
+Vak Bottyán u. 75/a
+Vak Bottyán utca
+Vakond utca
+Valusek utca
+Valéria utca
+Varsó utca
+Vas Gereben utca
+Vas utca
+Vaskapu utca
+Vasutasház utca
+Vasutaskert utca
+Vasutastelep utca
+Vasvirág sor
+Vasvári Pál utca
+Vasváry Pál utca
+Vasút sor
+Vasút utca
+Veder utca
+Vegyész utca
+Vendel utca
+Venetiáner utca
+Verbéna utca
+Vereckei köz
+Vereckei utca
+Veres Pálné utca
+Veres Péter
+Veres Péter utca
+Veres Péter út
+Veres pálné utca
+Vermes Miklós utca
+Versec sor
+Verseny utca
+Veréb utca
+Vetés utca
+Vezér utca
+Viador utca
+Victor Hugo utca
+Vidra utca
+Vidám vásár utca
+Vidámvásár utca
+Vigadó tér
+Vihar utca
+Vihorláti utca
+Villanytelep utca
+Villám köz
+Villám utca
+Villányi út
+Világos utca
+Vincellér köz
+Vincellér utca
+Vincellér út
+Viola sétány
+Viola utca
+Virág
+Virág utca
+Virágos sétány
+Virágos utca
+Virányos út
+Visegrádi köz
+Visegrádi utca
+Visi Imre utca
+Viza utca
+Vizafogó sétány
+Vizafogó utca
+Volf György utca
+Vonat utca
+Vonás utca
+Vácduka tér
+Váci Mihály utca
+Váci utca
+Váci út
+Váci út 46/B
+Váci út 46/B.
+Vág utca
+Vágány utca
+Vágóhíd utca
+Vájár utca
+Váli utca
+Vályog utca
+Vám utca
+Vámház körút
+Vámosgyörk utca
+Ványoló utca
+Vár tér
+Váradi Sándor utca
+Várhegy utca
+Várkapu utca
+Várna utca
+Városház tér
+Városház utca
+Városligeti fasor
+Városligeti tó
+Városmajor
+Városmajor utca
+Váry köz
+Vásár utca
+Vásárhelyi Pál utca
+Vásárhelyi utca
+Vásárhelyi út
+Vázsony utca
+Vécsey Károly utca
+Vécsey köz
+Védgát utca
+Vénusz utca
+Vérhalom tér
+Vérhalom utca
+Vértanúk tere
+Vértanúk útja
+Vértes Marcell utca
+Vértesszőlősi út
+Véső utca
+Vígszínház utca
+Vízesés utca
+Vízimolnár
+Víztorony utca
+Vízér utca
+Völgy utca
+Vörösdinka utca
+Vöröskereszt utca
+Vöröskút határsor
+Vörösmarthyho
+Vörösmarty Mihály utca
+Vörösmarty tér
+Vörösmarty utca
+Vörösvári út
+Vőlegény utca
+Wass Albert tér
+Weiner Leó utca
+Weiss Manfréd út
+Weselényi utca
+Wesselényi Miklós utca
+Wesselényi utca
+XV. utca
+Ybl Miklós sétány
+Zajnáthegyi utca
+Zalaegerszeg utca
+Zalai út
+Zalka Máté utca
+Zamárd utca
+Zay utca
+Zboró köz
+Zengő utca
+Zerind vezér utca
+Zichy Hippolyt utca
+Zichy Jenő utca
+Zichy Mihály utca
+Zilah utca
+Zipernowsky Károly utca
+Zivatar utca
+Zoltán utca
+Zombor utca
+Zombori utca
+Zrínyi Miklós lakótelep
+Zrínyi Miklós utca
+Zrínyi Miklós út
+Zrínyi utca
+Zsebeházi Lajos utca
+Zselic utca
+Zsellér dűlő
+Zsemlékesi út
+Zsenge
+Zsenge utca
+Zsigmond köz
+Zsigmond tér
+Zsil utca
+Zsilip utca
+Zsinór utca
+Zsivaj utca
+Zsolnay Vilmos utca
+Zsolt utca
+Zsombolyai utca
+Zsombor utca
+Zsurló utca
+Zsák Hugó utca
+Zsálya utca
+Zsámboki út
+Zsélyi Aladár utca
+Zsíroshegyi köz
+Zsíroshegyi út
+Zugligeti út
+Zágrábi utca
+Zámoly utca
+Zámori utca
+Zápolya utca
+Zápor utca
+Závodszky Zoltán utca
+Zöld utca
+Zöldfa utca
+Zöldfa utca (III. kerület)
+Zöldfa utca (XXII kerület)
+Zöldlomb utca
+Zöldmáli lejtő
+belterület
+dessewffy utca
+hold utca
+keleti utca
+kertész utca
+királyhágó tér
+külterület
+mező utca
+ny
+osz
+podmaniczky utca
+szabolcs utca
+százados út
+tavasz
+toldy utca
+tompa
+v
+vasvári Pál utca
+Ábel Jenő utca
+Ábránd utca
+Áchim András utca
+Ács utca
+Ádám utca
+Ágnes utca
+Ágoston utca
+Ágota utca
+Áldás utca
+Állatkerti körút
+Állatkerti út
+Állomás tér
+Állomás utca
+Állvány utca
+Álmos utca
+Álmos vezér tere
+Álmos vezér utca
+Árbóc utca
+Árnyas köz
+Árnyas utca
+Árnyas út
+Árok utca
+Árpád fejedelem út
+Árpád fejedelem útja
+Árpád tér
+Árpád utca
+Árpád út
+Árva utca
+Árvavár utca
+Árvácska utca
+Átlós utca
+Énekes
+Építők útja
+Érc utca
+Érdem utca
+Érdi út
+Érem utca
+Északi Lpt.
+Éva utca
+Íjász utca
+Írisz
+Írottkő utca
+Ív utca
+Ó utca
+Óceán-árok utca
+Óceánárok utca
+Óda utca
+Ódry Árpád utca
+Óhegy utca
+Óvoda köz
+Óvoda utca
+Ózdi utca
+Ölyv utca
+Öntő utca
+Ördögmalom utca
+Ördögárok utca
+Öreg köz
+Öreg utca
+Öreghegyi út
+Örjárat utca
+Örs vezér tere
+Összefogás utca
+Összekötő utca
+Ötpacsirta utca
+Ötvös János utca
+Ötvös utca
+Öv utca
+Övezet utca
+Új barázda utca
+Újbuda Központ
+Újhegyi sétány
+Újhegyi út
+Újkisház utca
+Újlak
+Újlak köz
+Újlak utca
+Újmegyeri tér
+Újpalotai út
+Újpesti rakpart
+Újszász utca
+Újvidék tér
+Úrbéres utca
+Úri utca
+Úszódaru utca
+Üdülő út
+Ügető utca
+Üllői út
+Üllői űt
+Ürömi köz
+Ürömi út
+Üstökös utca
+Üteg utca
+Üzbég utca
+üllői út
+Őrhegyi út
+Őrhely utca
+Őrház utca
+Őrjárat utca
+Őrjáró tér
+Őrszem utca
+Őrtűz utca
+Ősz utca
+Őszibarack utca
+Őszirózsa utca
+Őz utca
+Štefánikova
+Želiarsky svah
